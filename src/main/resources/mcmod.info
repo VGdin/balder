@@ -1,0 +1,16 @@
+[
+{
+  "modid": "balder",
+  "name": "Balder",
+  "description": "A hacked client for minecraft",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/VGdin/balder",
+  "updateUrl": https://github.com/VGdin/balder",
+  "authorList": ["Vgdin"],
+  "credits": "not yet",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
